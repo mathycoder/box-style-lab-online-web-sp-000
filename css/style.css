@@ -42,6 +42,10 @@ h4.amiable {
   background-color: #dddd22;
 }
 
+h4.indifferent {
+  background: linear-gradient(to right, #dddd22, white);
+}
+
 .dubious {
   border: 1px solid rgb(168, 36, 39);
   box-shadow:  -1px 1px rgb(168, 36, 39), -2px 2px rgb(168, 36, 39), -3px 3px rgb(168, 36, 39), -4px 4px rgb(168, 36, 39), -5px 5px rgb(168, 36, 39);
